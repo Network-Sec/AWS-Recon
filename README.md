@@ -6,7 +6,7 @@ $ ./aws_recon.sh AKIAIOSFODNN7EXAMPLE wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
 ```
 
 ## Example usage
-![](./notebook_snippets_43.JPG)
+![](./usage_example.jpg)
 
 ## Helper Tools
 
